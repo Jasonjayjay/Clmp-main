@@ -1,0 +1,140 @@
+CLMP LANDING PAGE CODE DOCUMENTATION
+
+React JS, HTML & CSS
+
+
+App.js (App.css) - App component
+	Funtion: App
+	Components: <Home/>
+                    <Logo/>
+                    <Section3/>
+                    <Section4/>
+                    <Slider/>
+                    <Section6/>
+                    <Section7/>
+                    <Section8/>
+                    <Section9/>
+
+Main Components - Main
+
+src(folders): components: main
+
+
+
+
+main(folders): a-home, b-home, c-purple, d-what_is_athena, e-we_can_custom, 
+		   f-future_proof, g-explore_our, h-plans, i-have_question
+
+
+	a-home: Main.js(Main.css), Navbar.js(Navbar.css)
+		
+		Function: Main
+		Classes: home-container
+				Navbar
+				home-bannerImage-container
+					main
+					content1
+						header1
+						context1
+						content1-btns
+					image1
+					contentm
+						context-m
+						contentm-btns
+							content1-explore
+							watch-video-button
+
+
+	b-logo: Logo.js(Logo.css)
+	
+		Funtion: Section2
+		Classes: section2
+				part1
+				part2
+
+
+	c-what_is_clmp: Section3.js(Section3.css)
+		
+		Function: Section3
+		Classes: section3
+				header2
+				body1
+					container
+						box
+						compbox1
+
+
+	d-what_we_can_do: Section4.js(Section4.css)
+
+		Function: Section4
+		Classes: section4
+				header3
+				body2
+					container1
+					  	Iconbox1	
+					    		Iconbox2
+							img
+							links-container
+							
+
+	
+	e-testimonial: Slider.js(Slider.css)
+	
+		Function: Section5
+		Classes: section5
+				content2
+					header3
+						image3
+					body3
+					checklist
+						checklist-item x3
+					checklist2
+						checklist-item x3
+				image3		
+						
+
+
+	
+	f-pricing: Section6.js(Section6.css)
+
+		Function: Section6
+		Classes: section6
+				header6
+				plans			# Plans and Pricing div
+					plan1
+						plan-head
+						plan-body
+						plan-price
+							plan-num 
+							plan-month
+						plan-btn
+						plan-list	# Contains the check and cross marks in the plans
+
+
+	g-questions: Section7
+		
+		Function: Section7
+		Classes: section7
+				form-header
+				form-body
+				form1
+					form-input
+					submit-btn		
+
+
+	h-footer1: Section8 (Section8.css)
+
+		Function: Footer1
+		Classes: footer1
+				img-footer
+				footer-details
+					footer-item1
+					footer-item2
+						social
+		
+
+	i: Footer2.js(Footer2.css)
+		
+		Function: Footer2
+		Classes: footer2
+				footer-text
